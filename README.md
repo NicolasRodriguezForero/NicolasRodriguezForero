@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Science+Student+%F0%9F%A7%A0;Founder+%26+CEO+at+Tech+Craft+Solutions+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Science+Student+%F0%9F%A7%A0;Founder+%26+CEO+at+Tech+Craft+Solutions+%F0%9F%92%BC" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -14,33 +14,24 @@
 
 <div align="center">
   <a href="mailto:niquimiqui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-22C55E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0EA5E9" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linkedin.com/in/nicolas-rodriguez-forero" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/NicolasRodriguezForero" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/NicolasRodriguezForero?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasRodriguezForero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=FFFFFF&ring_color=22C55E&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasRodriguezForero&theme=radical&hide_border=true&background=0D1117&stroke=22C55E&ring=0EA5E9&fire=22C55E&currStreakLabel=0EA5E9&sideLabels=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRodriguezForero&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,7 +62,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+      <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300">
     </td>
     <td align="left" width="50%">
       <br>
@@ -91,6 +82,10 @@
 <h2 align="center">🌱 Currently Working On</h2>
 
 <div align="center">
+<td align="center" width="50%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRycXhzZmFibW03ZDJmNHE5cTZzbDFtdXduanp5emhqZG5veG92cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width="250">
+    </td>
+    <td align="left" width="50%">
   
 | 🚀 Project | 💡 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:---------------|
@@ -103,9 +98,10 @@
 <br/>
 
 <details>
-<summary><h3>📂 Featured Projects</h3></summary>
+<summary><h3 style="display: inline;">📂 Featured Projects</h3></summary>
+
 <br>
-  
+
 - 🧠 **NeuroChallenge** - Interactive cognitive training platform
 - 📱 **Triqui Mobile App** - Mobile game with modern UI/UX (In approval process)
 - ☁️ **Cloud Architecture Projects** - Scalable solutions on AWS & GCP
@@ -114,29 +110,13 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasRodriguezForero&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-</div>
-
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasRodriguezForero/NicolasRodriguezForero/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasRodriguezForero/NicolasRodriguezForero/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolasRodriguezForero/NicolasRodriguezForero/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=100&section=footer" />
