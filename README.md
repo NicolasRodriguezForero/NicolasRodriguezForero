@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Science+Student+%F0%9F%A7%A0;Founder+%26+CEO+at+Tech+Craft+Solutions+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Computer+Science+Student+%F0%9F%A7%A0;Founder+%26+CEO+at+Tech+Craft+Solutions+%F0%9F%92%BC" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,7 +13,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/niquimiqui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:niquimiqui@gmail.com" title="niquimiqui@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   <a href="https://www.linkedin.com/in/nicolas-rodriguez-forero-48b651311/?trk=opento_sprofile_details" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
