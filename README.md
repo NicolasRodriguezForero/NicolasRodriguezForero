@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Building+innovative+digital+solutions;%F0%9F%8C%9F+Passionate+about+AI+%26+Innovation;%F0%9F%93%B1+Mobile+%26+Web+Development+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1500&color=0EA5E9&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Building+innovative+digital+solutions;%F0%9F%8C%9F+Passionate+about+AI+%26+Innovation;%F0%9F%93%B1+Mobile+%26+Web+Development+Expert" />
 </p>
 
 <br/>
