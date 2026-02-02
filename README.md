@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=180&section=header&text=Nicolás%20Rodríguez%20Forero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=180&section=header&text=Nicolas%20Rodriguez%20Forero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <div align="center">
@@ -13,14 +13,9 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:niquimiqui@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/nicolas-rodriguez-forero" target="_blank">
+  <img src="https://img.shields.io/badge/niquimiqui@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/nicolas-rodriguez-forero-48b651311/?trk=opento_sprofile_details" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/NicolasRodriguezForero" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/NicolasRodriguezForero?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logoColor=white" alt="Portfolio" />
