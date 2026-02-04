@@ -38,7 +38,7 @@
 
 <div align="center">
   <h3>💻 Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,html,css,sql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,dart,cpp,cs,html,css,sql&theme=dark" alt="Languages" />
 </div>
 
 <div align="center">
