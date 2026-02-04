@@ -26,7 +26,8 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasRodriguezForero&theme=radical&hide_border=true&background=0D1117&stroke=22C55E&ring=0EA5E9&fire=22C55E&currStreakLabel=0EA5E9&sideLabels=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=NicolasRodriguezForero&theme=dark&hide_border=true&background=0D1117&stroke=22C55E&ring=0EA5E9&fire=22C55E&currStreakLabel=0EA5E9&sideLabels=22C55E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NicolasRodriguezForero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
