@@ -13,12 +13,12 @@ AI Engineer (B.Eng. in Computer Science and AI, Cum Laude 2026). I build RAG sys
 
 <sub>ES · Ingeniero en IA que construye sistemas inteligentes que llegan a producción.</sub>
 
-### Now
+<h3><img src="./assets/section-now.svg" height="30" alt="Now" /></h3>
 
 - **Project Engineer @ InConcert** · 3 projects led end to end on an omnichannel contact center platform
 - **Backend Developer @ Indetech Consulting** · product matching for [PriceIt](https://priceit.com.co/), ≈128k offers across 8 retail chains
 
-### Featured
+<h3><img src="./assets/section-featured.svg" height="30" alt="Featured" /></h3>
 
 <p align="center">
   <a href="https://nicolasrodriguez.online/#projects"><img src="./assets/card-atlas.svg" width="32%" alt="ATLAS: agentic RAG for Colombian coastal case law" /></a>
@@ -28,7 +28,7 @@ AI Engineer (B.Eng. in Computer Science and AI, Cum Laude 2026). I build RAG sys
 
 Also: [NeuroChallenge](https://neuro-challenge.online/) (cognitive training platform) · [Gizmo Dev Studio](https://play.google.com/store/apps/developer?id=Gizmo+Dev+Studio&hl=es_CO) (my mobile studio, Flutter)
 
-### Stack
+<h3><img src="./assets/section-stack.svg" height="30" alt="Stack" /></h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,azure,mongodb,postgres,ts,react,nextjs,docker&theme=dark&perline=9" alt="Python, FastAPI, Azure, MongoDB, PostgreSQL, TypeScript, React, Next.js, Docker" />
@@ -36,7 +36,7 @@ Also: [NeuroChallenge](https://neuro-challenge.online/) (cognitive training plat
 
 <sub>RAG · LangGraph · MCP · hybrid search (BM25 + vector) · embeddings · ChromaDB · Ollama</sub>
 
-### Recognition
+<h3><img src="./assets/section-recognition.svg" height="30" alt="Recognition" /></h3>
 
 Cum Laude · Honors Program ×3 · Speaker at Data Fest 2026 (ATLAS) · AWS Cloud Club Core Team
 
