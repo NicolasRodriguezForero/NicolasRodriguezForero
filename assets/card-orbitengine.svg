@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" width="360" height="240" role="img" aria-label="OrbitEngine">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00CFFF"/><stop offset="1" stop-color="#00FF87"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="359" height="239" rx="16" fill="#0D1520" stroke="#1A2535"/>
+  <rect x="24" y="0.5" width="48" height="3" rx="1.5" fill="#00FF87"/>
+  <text x="24" y="40" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="13" letter-spacing="1.2" fill="#00FF87">MULTI-TENANT SAAS</text>
+  <path d="M322 30 L334 18 M324 18 L334 18 L334 28" fill="none" stroke="#5E6E80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="24" y="78" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="27" font-weight="800" fill="#FFFFFF">OrbitEngine</text>
+  <text x="24" y="114" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#8A9AAD">SaaS for SMBs, tech lead end to end</text><text x="24" y="138" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="16" fill="#8A9AAD">FastAPI · React · PostgreSQL</text>
+  <line x1="24" y1="168" x2="336" y2="168" stroke="#1A2535"/>
+  <text x="24" y="210" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#g)">7</text>
+  <text x="52" y="208" font-family="'Plus Jakarta Sans', 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A9AAD">companies running on it</text>
+  <g fill="#1A2535" opacity="1" transform="translate(328 206) scale(0.9)"><ellipse cx="0" cy="6" rx="7" ry="6"/><circle cx="-8" cy="-4" r="3"/><circle cx="-3" cy="-9" r="3"/><circle cx="3" cy="-9" r="3"/><circle cx="8" cy="-4" r="3"/></g>
+</svg>
